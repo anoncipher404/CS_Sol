@@ -1,0 +1,7 @@
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\bin\Debug\arrayproduct.exe.config
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\bin\Debug\arrayproduct.exe
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\bin\Debug\arrayproduct.pdb
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\obj\Debug\arrayproduct.csproj.AssemblyReference.cache
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\obj\Debug\arrayproduct.csproj.CoreCompileInputs.cache
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\obj\Debug\arrayproduct.exe
+C:\Users\shashwat\Documents\Code\C#\arrayproduct\arrayproduct\obj\Debug\arrayproduct.pdb
